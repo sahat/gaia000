@@ -2,8 +2,7 @@
   "presets": ["react", "es2015"],
   "env": {
     "development": {
-      "presets": ["react-hmre"],
-      "plugins": ["rewire"]
+      "presets": ["react-hmre"]
     }
   }
 }
