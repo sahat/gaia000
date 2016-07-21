@@ -1,0 +1,1534 @@
+{
+  "app": {
+    "term": {
+      "tid": "119931",
+      "vid": "1",
+      "name": "Metaphysics",
+      "weight": "0",
+      "body": "There's more to our universe than meets the eye. In this thought-provoking video collection, you'll discover stories of scientific exploration, spiritual metaphysics, alternate realities and mystic messages. Gaia has scoured the globe to bring you the best in metaphysical videos that encourage you to expand your horizons and think outside the box.",
+      "termImages": {
+        "hero": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/pquRDWDD0yf4lFImC3hmXNKpM7Pb3YRfL-XwPPdKsDw/mtime%3A1461683418/sites/default/files/imagecache/term_hero_320x200/term_images/metaphysics_2.jpg",
+          "hero_700x300": "http://img.gtvcdn.com/cdn/farfuture/t96jVKBvyhAy7EWsfui0paGEARK4D_Wf84j1XNUd1qU/mtime%3A1461683419/sites/default/files/imagecache/term_hero_700x300/term_images/metaphysics_2.jpg",
+          "hero_1070x300": "http://img.gtvcdn.com/cdn/farfuture/Ei4zd5AS7sPaW63_i1saYcvPZkjutLGuv-euzKUStRI/mtime%3A1461683420/sites/default/files/imagecache/term_hero_1070x300/term_images/metaphysics_2.jpg",
+          "hero_1440x300": "http://img.gtvcdn.com/cdn/farfuture/Ei4zd5AS7sPaW63_i1saYcvPZkjutLGuv-euzKUStRI/mtime%3A1461683420/sites/default/files/imagecache/term_hero_1440x300/term_images/metaphysics_2.jpg"
+        },
+        "tile": {
+          "tile_532x400": "http://img.gtvcdn.com/cdn/farfuture/58KpSRxam5c2METk163kciqWg5VYiQJcBBlaPBeL43k/mtime%3A1461683421/sites/default/files/imagecache/term_tile_532x400/term_images/metaphysics_2.jpg"
+        }
+      }
+    },
+    "titles": [
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "David Wilcock, author of Source Field Investigations, exposes some of the greatest secrets and cover-ups of our time in this eye-opening original series.\n",
+              "format": "1"
+            }
+          ],
+          "season": null,
+          "episode": null,
+          "instructor": [
+            {
+              "value": "David Wilcock"
+            }
+          ],
+          "video_lang": null
+        },
+        "nid": "30760",
+        "type": "product_series",
+        "title": "Wisdom Teachings",
+        "promote": "1",
+        "comment_count": "612",
+        "is_new": false,
+        "production_status": "active-production",
+        "path": "show/wisdom-teachings-david-wilcock",
+        "product_type": "episodic",
+        "display_type": "normal",
+        "total_episodes": "174",
+        "total_seasons": "22",
+        "admin_category": {
+          "tid": "26617",
+          "vid": "12",
+          "name": "Phenomenology",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/8oqK69kBABCZY6vidVhiQNKtJYnavikbx372URyFlNg/mtime%3A1400743976/sites/default/files/imagecache/hdtv_series_190x266/product_series_coverart_image/WT-Series.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/9s6gHu1Szh0GOMThk9d0qJXc4wGgYeWosMxaVLz-DP0/mtime%3A1400262741/sites/default/files/imagecache/hdtv_series_250x350/product_series_coverart_image/WT-Series.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/WeJAd9u1zhWYU8qkCDAIBRXN4GKw_kaQnzOwa8xyReg/mtime%3A1393551181/sites/default/files/imagecache/hdtv_series_385x539/product_series_coverart_image/WT-Series.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/apHg_5uTxEACYspxAiPYq_bfl-kY3ge2iUvS3-CHQjk/mtime%3A1397240808/sites/default/files/imagecache/hdtv_series_500x700/product_series_coverart_image/WT-Series.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/sKn0DJF7cnaDuk9enAtHP5itjMGXC2kzlIlzKfKV3rw/mtime%3A1384294955/sites/default/files/imagecache/roku_series_158x204/product_series_coverart_image/WT-Series.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/Mf4GWeJKxH0OsBreFdhuKMyncQGr8A9VcJZdyY4hcBM/mtime%3A1384212190/sites/default/files/imagecache/roku_series_214x306/product_series_coverart_image/WT-Series.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/464Vufioc76sn3O0t8RzjSIZyO0jZI_ul-KVMWe4YWk/mtime%3A1461733402/sites/default/files/imagecache/hero_320x200/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/l_IkFmtYIpXX2Rqb-1u8E-9u4xPfZ6XIIU71poeZWyI/mtime%3A1462985128/sites/default/files/imagecache/hero_570x200/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/uMjEC3irhzRu7pmmc2yGiPcagiqyNuxEivV0wnGOvQ8/mtime%3A1461733404/sites/default/files/imagecache/hero_570x300/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/g1Gfd7Xj8CQw2vDk8agCPNaChAcCaIN1TY7I6pR_VMU/mtime%3A1462985129/sites/default/files/imagecache/hero_820x300/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/uMjEC3irhzRu7pmmc2yGiPcagiqyNuxEivV0wnGOvQ8/mtime%3A1461733404/sites/default/files/imagecache/hero_820x400/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/_OMQZajvVJ_8OmgLx4l17xnA8k1gnHTosVJKYSELb5U/mtime%3A1461733405/sites/default/files/imagecache/hero_1070x400/product_series_hero_image/wisdom_teaching.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/BUkr50A4uvxLDxKh9abH4xlJNxJ5je822us04tvFeNU/mtime%3A1462985130/sites/default/files/imagecache/hero_1920x400/product_series_hero_image/wisdom_teaching.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/_OMQZajvVJ_8OmgLx4l17xnA8k1gnHTosVJKYSELb5U/mtime%3A1461733405/sites/default/files/imagecache/xbox_video_356x180/product_series_hero_image/wisdom_teaching.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/n6tYrMQVKiEvp0zna5XDuRgsqoHNtYqsD8ZiVI45ZzM/mtime%3A1461733406/sites/default/files/imagecache/xbox_video_977x494/product_series_hero_image/wisdom_teaching.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/ka6ZqxW7mxgncc0iR_bSKz_i8_w2gMTaRAK8mVnl2hc/mtime%3A1454625907/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/30760_Wisdom_Teachings_Series_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/sHpmVDvdG4AA-pXTGSl3BT4nsKMipUkeUoVW_8HhtqE/mtime%3A1468266603/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/30760_Wisdom_Teachings_Series_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/sHpmVDvdG4AA-pXTGSl3BT4nsKMipUkeUoVW_8HhtqE/mtime%3A1468266603/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/30760_Wisdom_Teachings_Series_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/gVk4pB8hNLUohmzDofmzlNicDfTuZQH1mNqAEdECON4/mtime%3A1461791149/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/oTYScFRZ7AI_j-aQx6Lp4DmW91kHgwwYW6vpg4CYPxs/mtime%3A1461791150/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/oTYScFRZ7AI_j-aQx6Lp4DmW91kHgwwYW6vpg4CYPxs/mtime%3A1461791150/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/pqkoE8IP7gjhmvXAqJoNSooFemymKDM52iRb3oygblQ/mtime%3A1468266604/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/I7f1SrNw3ou18XxrSIfY7NF8arNbrn71caBkXIEp11o/mtime%3A1461791151/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/64v9NiIHKAJgJlvJvm_Yg2vELXys_uu46beEvhwywz4/mtime%3A1468266605/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/16_9_wisdom_teachings_no_title.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 1002
+          },
+          "down_count": {
+            "value": 1
+          }
+        },
+        "carousel_image": {
+          "authenticated": "http://img.gtvcdn.com/cdn/farfuture/hRAszQBj-ikGZ22wXNz8Yd8lAC7c6S2mb4dlHKjp42c/mtime%3A1367247836/sites/default/files/imagecache/front_slideshow/product_series_carousel_image_auth/DavidWilcock_SalePg2.jpg"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "Host Regina Meredith conducts interviews with thought-provoking luminaries, cutting-edge visionaries and tireless researchers, providing crucial information to awaken viewers to new perspectives that spark awareness, understanding and ultimately, transformation.\n",
+              "format": "1"
+            }
+          ],
+          "season": null,
+          "episode": null,
+          "instructor": [
+            {
+              "value": "Regina Meredith"
+            }
+          ],
+          "video_lang": null
+        },
+        "nid": "30035",
+        "type": "product_series",
+        "title": "Open Minds",
+        "promote": "1",
+        "comment_count": "55",
+        "is_new": false,
+        "production_status": "active-production",
+        "path": "show/open-minds",
+        "product_type": "episodic",
+        "display_type": "normal",
+        "total_episodes": "214",
+        "total_seasons": "6",
+        "admin_category": {
+          "tid": "26618",
+          "vid": "12",
+          "name": "Coverups",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/rv2_W5sWEVOPwlT0mrZddJLRB4e8mjSv22ehJpfwgUE/mtime%3A1400145365/sites/default/files/imagecache/hdtv_series_190x266/product_series_coverart_image/OM-Series.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/m_TZA7mNAbXlCfT9IkmcvX156AgWBgqcCbQPN6-ZzsU/mtime%3A1400262741/sites/default/files/imagecache/hdtv_series_250x350/product_series_coverart_image/OM-Series.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/C2TKRYQTaGQ5Sm0Kac9iSB3j6aQqs5860j87xmfkcaQ/mtime%3A1393356051/sites/default/files/imagecache/hdtv_series_385x539/product_series_coverart_image/OM-Series.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/TqctvfjZ8Q3o9d9hU-cZnynsuV7aJzdBwGCZEY8088g/mtime%3A1399940405/sites/default/files/imagecache/hdtv_series_500x700/product_series_coverart_image/OM-Series.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/-YSfFFuayOjQqp56zV04yphKafxGDyWPPPaAqoJ-fUU/mtime%3A1381818447/sites/default/files/imagecache/roku_series_158x204/product_series_coverart_image/OM-Series.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/pw8GiNQ29VwPcWrlJEntl0FqSSsk0bzv1jAXbpoOeaE/mtime%3A1381818404/sites/default/files/imagecache/roku_series_214x306/product_series_coverart_image/OM-Series.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/Nq_jHcNpcncI505F6phkfXRafy0UolZU2abdw6izj0U/mtime%3A1461799956/sites/default/files/imagecache/hero_320x200/product_series_hero_image/open_minds.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/IjyHl8PtmGJ8bRLN6UsdnO3uFCN0E6M8GVy2sSOYSzI/mtime%3A1462987374/sites/default/files/imagecache/hero_570x200/product_series_hero_image/open_minds.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/v5C-OCG22k9SV-j6Y-EpqnvmnddYVi8vESJJ5tKEWOE/mtime%3A1461799957/sites/default/files/imagecache/hero_570x300/product_series_hero_image/open_minds.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/IjyHl8PtmGJ8bRLN6UsdnO3uFCN0E6M8GVy2sSOYSzI/mtime%3A1462987374/sites/default/files/imagecache/hero_820x300/product_series_hero_image/open_minds.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/Q6P1qdseTxp4kf3z5rRA7Zc1afoU5Aclc52jwkj93p4/mtime%3A1461799958/sites/default/files/imagecache/hero_820x400/product_series_hero_image/open_minds.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/Q6P1qdseTxp4kf3z5rRA7Zc1afoU5Aclc52jwkj93p4/mtime%3A1461799958/sites/default/files/imagecache/hero_1070x400/product_series_hero_image/open_minds.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/wVIknK9TZNfb_Qj247fEFkk2JrUDjZ0A6gpb9oAgyLE/mtime%3A1462987375/sites/default/files/imagecache/hero_1920x400/product_series_hero_image/open_minds.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/26pBlhC_V3m0ONeWccsIlom86Nnmq4UlsJ_9fYvWbDU/mtime%3A1461799959/sites/default/files/imagecache/xbox_video_356x180/product_series_hero_image/open_minds.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/GaxDrYhUbcGVl6rFbyVzKm2ml9WIof4maFb4U4G8Mw4/mtime%3A1461799960/sites/default/files/imagecache/xbox_video_977x494/product_series_hero_image/open_minds.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/s__Sb9DW7pm-3tNlwg3_VroTkVhSIC2NfAaGkoE_pn0/mtime%3A1454628445/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/30035_Open_Minds_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/3jHYDDIV-fjQZfEPKd1OMBAxLKBilVa0S2iF2s8hT1M/mtime%3A1468265180/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/30035_Open_Minds_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/9MvxsNlZmA17r4Ss7I4WXHZwNHewE20MEVoOApit7Oo/mtime%3A1468265181/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/30035_Open_Minds_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/3Db1ZB_vwbatpmGHBrReO32Z-jvsoUJHQNpUgzC_rSI/mtime%3A1457372649/sites/default/files/imagecache/keyart_304x171/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/93vxo-JXLbPOi5Vclxm7iaH9hZym-XZpsOnFbcDkBJQ/mtime%3A1457372658/sites/default/files/imagecache/keyart_570x321/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/U-1qG7EEUwBOuy3CGmJEPaWZ9hIutf66LqrzZDnu-oI/mtime%3A1457372659/sites/default/files/imagecache/keyart_820x461/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/qZ0q2Bobooa11Gmgj4OZvJOx44jhylZTufgc-leNVIY/mtime%3A1468265127/sites/default/files/imagecache/keyart_864x486/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/tHUwgPjx4opnfy4hST0gSnre_99h2iMEEDz20EjqtIM/mtime%3A1457372666/sites/default/files/imagecache/keyart_1070x602/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/fjsf-0QNVX-1fnEcW6G-8f7KMpa6RaKgmdg9iQ1yx9c/mtime%3A1468265129/sites/default/files/imagecache/keyart_1180x664/sites/all/themes/gaiatv/images/gaia-thumbnail-default.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 1002
+          },
+          "down_count": {
+            "value": 0
+          }
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "While science seeks a way for us to stretch our space-faring legs through technology, the ancients have already found another way. Ancient ascension texts guide us to achieving a body of light which gives us the means to traverse an interconnected network of star gates.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "6"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "123596",
+        "type": "product_video",
+        "title": "Ascension into the Final Frontiers",
+        "promote": "0",
+        "comment_count": "12",
+        "is_new": true,
+        "production_status": null,
+        "path": "video/ascension-final-frontiers",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/GGXQZ3wzO55OuuR2EYNHL80P39Tu1TRk3bKFR2ySVQ8/mtime%3A1468005411/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/GGXQZ3wzO55OuuR2EYNHL80P39Tu1TRk3bKFR2ySVQ8/mtime%3A1468005411/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/kMDI7uBjdpfqod2yQE6lCWucLxxIp_KKIVQ6eQYIIJ8/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/kMDI7uBjdpfqod2yQE6lCWucLxxIp_KKIVQ6eQYIIJ8/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/kMDI7uBjdpfqod2yQE6lCWucLxxIp_KKIVQ6eQYIIJ8/mtime%3A1468005412/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/kMDI7uBjdpfqod2yQE6lCWucLxxIp_KKIVQ6eQYIIJ8/mtime%3A1468005412/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/123596_a_s2e6_ascension-into-the-final-frontiers_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/cliGTh8kLyEOGFKo5HsFRmO7MpPNq-2RCuBq-dny9yc/mtime%3A1468005414/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/cliGTh8kLyEOGFKo5HsFRmO7MpPNq-2RCuBq-dny9yc/mtime%3A1468005414/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/cliGTh8kLyEOGFKo5HsFRmO7MpPNq-2RCuBq-dny9yc/mtime%3A1468005414/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/gscEvrYnGg-YK3ycdwrOto2Bv7vnAdZmVA0b0RwLbA0/mtime%3A1468005415/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/gscEvrYnGg-YK3ycdwrOto2Bv7vnAdZmVA0b0RwLbA0/mtime%3A1468005415/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/gscEvrYnGg-YK3ycdwrOto2Bv7vnAdZmVA0b0RwLbA0/mtime%3A1468005415/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/gscEvrYnGg-YK3ycdwrOto2Bv7vnAdZmVA0b0RwLbA0/mtime%3A1468005415/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/urij38zkXYaW9y50tvX5gp8RoO5fEDTKELA7o-FJp6w/mtime%3A1468005416/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/urij38zkXYaW9y50tvX5gp8RoO5fEDTKELA7o-FJp6w/mtime%3A1468005416/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/xYJfEMAln5GatTFdJiGTVXXHabjegquHCCXlanTyuXs/mtime%3A1468005413/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/-dNQzt6TXLj4ItdC4xV952zqSZ6qvxrt6Euzyu4rlGM/mtime%3A1468299729/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/tRPDlNcc7JGForBpOcfWJqvhif9Vt3zLiULlINNo1Ek/mtime%3A1468299730/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/123596_a_s2e6_ascension-into-the-final-frontiers_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/PJnHAjYNrKOEkBVsmzMjTIDwmNLRPpAOds-_NdIZtLk/mtime%3A1468005413/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/PJnHAjYNrKOEkBVsmzMjTIDwmNLRPpAOds-_NdIZtLk/mtime%3A1468005413/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/PJnHAjYNrKOEkBVsmzMjTIDwmNLRPpAOds-_NdIZtLk/mtime%3A1468005413/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/g-RrnT6TV3LFkl0zPkX0wsGBXQQZoKKeaeWUzdxEya4/mtime%3A1468299730/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/5SDXITA8VZ37J2HVSFSGNxXztTVWg0COWi3oP_dl9Dw/mtime%3A1468005414/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/8PhENOHRwL7TCcy0LXW9fkqvfPxzrqSIdFGDC0IwhEY/mtime%3A1468299731/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/123596_a_s2e6_ascension-into-the-final-frontiers_16x9_clean.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 193
+          },
+          "down_count": {
+            "value": 4
+          }
+        },
+        "preview": {
+          "nid": "126121",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP06_Ascension_Into_The_Final_Frontiers_Show_07_HD_T",
+          "duration": "43"
+        },
+        "feature": {
+          "nid": "126131",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP06_Ascension_Into_The_Final_Frontiers_Show_07_HD",
+          "duration": "1708"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "While great works of art have been admired and studied for centuries, only a few individuals know the secrets that they conceal.\nClare and William Henry explore beyond the composition of these works to discover their hidden mysteries. What they find is the Arcanum: esoteric secrets about human potential and modern sciences.\n",
+              "format": "1"
+            }
+          ],
+          "season": null,
+          "episode": null,
+          "instructor": [
+            {
+              "value": null
+            }
+          ],
+          "video_lang": null
+        },
+        "nid": "43596",
+        "type": "product_series",
+        "title": "Arcanum",
+        "promote": "1",
+        "comment_count": "42",
+        "is_new": false,
+        "production_status": "active-production",
+        "path": "show/arcanum",
+        "product_type": "episodic",
+        "display_type": "normal",
+        "total_episodes": "19",
+        "total_seasons": "2",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/OrG2Ntpav41U_1W1bGWVaWGObbHiAVZ_8nENp7mx-Lg/mtime%3A1464817814/sites/default/files/imagecache/hdtv_series_190x266/product_series_coverart_image/AS_500x700_series.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/OrG2Ntpav41U_1W1bGWVaWGObbHiAVZ_8nENp7mx-Lg/mtime%3A1464817814/sites/default/files/imagecache/hdtv_series_250x350/product_series_coverart_image/AS_500x700_series.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/OrG2Ntpav41U_1W1bGWVaWGObbHiAVZ_8nENp7mx-Lg/mtime%3A1464817814/sites/default/files/imagecache/hdtv_series_385x539/product_series_coverart_image/AS_500x700_series.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/OrG2Ntpav41U_1W1bGWVaWGObbHiAVZ_8nENp7mx-Lg/mtime%3A1464817814/sites/default/files/imagecache/hdtv_series_500x700/product_series_coverart_image/AS_500x700_series.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/hDFTdedGX9oO2kEvRegHa9GAC4v-gLwzTsd-TU5opvU/mtime%3A1464817815/sites/default/files/imagecache/roku_series_158x204/product_series_coverart_image/AS_500x700_series.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/hDFTdedGX9oO2kEvRegHa9GAC4v-gLwzTsd-TU5opvU/mtime%3A1464817815/sites/default/files/imagecache/roku_series_214x306/product_series_coverart_image/AS_500x700_series.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/59lcZd4AQxzexE5OcHPiqn7XZLj6wRKv-3vASRRnHQA/mtime%3A1454625448/sites/default/files/imagecache/hero_320x200/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/U8-MsSOyjG1Eo6DSBdRazo-Emr7G8iXOkb-Jww1yxXM/mtime%3A1462987393/sites/default/files/imagecache/hero_570x200/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/59lcZd4AQxzexE5OcHPiqn7XZLj6wRKv-3vASRRnHQA/mtime%3A1454625448/sites/default/files/imagecache/hero_570x300/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/U8-MsSOyjG1Eo6DSBdRazo-Emr7G8iXOkb-Jww1yxXM/mtime%3A1462987393/sites/default/files/imagecache/hero_820x300/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/vossmY8S8cL7HIyeAI8Q-at2T4UGbyvLFXBIo35HKQs/mtime%3A1454625449/sites/default/files/imagecache/hero_820x400/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/200KVJ_Wxk15hOr0fCHJPL5peDOKvO2A0fmvGqF0ODo/mtime%3A1454625450/sites/default/files/imagecache/hero_1070x400/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/LpWpUQBgB9UXm-oFBGBMSlfvuAHqWnBL3LsWA3KjGjE/mtime%3A1462987394/sites/default/files/imagecache/hero_1920x400/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/7SZnidfLGuZ1sNIzjWH21_52nfciqwrzNwjdjccgIhg/mtime%3A1450767472/sites/default/files/imagecache/xbox_video_356x180/product_series_hero_image/William_Henry_Arcanum_bg.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/7SZnidfLGuZ1sNIzjWH21_52nfciqwrzNwjdjccgIhg/mtime%3A1450767472/sites/default/files/imagecache/xbox_video_977x494/product_series_hero_image/William_Henry_Arcanum_bg.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/jXGNr5ry7IvyRwLyOUZBX_Gs7x2q1gvHFBaoyekP2mY/mtime%3A1454625444/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/43596_Arcanum_Series_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/UfnWsIuE58SLpcycnLNGP2uIcbcm-oHm5j_ZRrLTIs8/mtime%3A1468266634/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/43596_Arcanum_Series_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/m2jDbLtKzBRqIhOQDNzFq39E7r9Pvw7B4GGlD_p5Ex0/mtime%3A1468266635/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/43596_Arcanum_Series_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/yB6BlxWSCLpXUHIP5jArGnXcl00f7DUBNI9IgFaLehI/mtime%3A1454625445/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/4UT88-C5IIy6yeMVMdc1R_wmH76wOXmT2hZ84L83D_A/mtime%3A1454625446/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/SVzWLNdb7YIbLdxRMnsDlsvwQj0SxyHTOI_rSY4C6QU/mtime%3A1454625447/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/SruzrkwJKiS2F_pZZl-uacyc9P6qUIC9sJ8cDpjkPao/mtime%3A1468266636/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/itB2nqNatW1ssfyNSR_Cb5a6ACVcIGT8A75RohKcXjw/mtime%3A1454625448/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/SruzrkwJKiS2F_pZZl-uacyc9P6qUIC9sJ8cDpjkPao/mtime%3A1468266636/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/43596_Arcanum_Clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 1001
+          },
+          "down_count": {
+            "value": 0
+          }
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "The Last Avatar is a mystical adventure story that centers on the arrival of Kalki, the final avatar of our current age, who comes to rescue humanity at a critical time of Earth history.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": null
+            }
+          ],
+          "episode": [
+            {
+              "value": null
+            }
+          ],
+          "instructor": [
+            {
+              "value": null
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "119536",
+        "type": "product_video",
+        "title": "The Last Avatar",
+        "promote": "0",
+        "comment_count": "111",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/last-avatar",
+        "product_type": "single",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/kQ8LSXKaOPv-R8XQdEy3nYuOJBMhmkFOeuklbWT493U/mtime%3A1461365504/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/119536_the_last_avatar_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/kQ8LSXKaOPv-R8XQdEy3nYuOJBMhmkFOeuklbWT493U/mtime%3A1461365504/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/119536_the_last_avatar_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/kQ8LSXKaOPv-R8XQdEy3nYuOJBMhmkFOeuklbWT493U/mtime%3A1461365504/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/119536_the_last_avatar_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/9W9yLzD4HPmHIrHk4zD2rCw6JwYXNQq1EQjsW4yCtCc/mtime%3A1461365505/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/119536_the_last_avatar_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/9W9yLzD4HPmHIrHk4zD2rCw6JwYXNQq1EQjsW4yCtCc/mtime%3A1461365505/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/119536_the_last_avatar_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/9W9yLzD4HPmHIrHk4zD2rCw6JwYXNQq1EQjsW4yCtCc/mtime%3A1461365505/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/119536_the_last_avatar_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/twrGklry1cOoiac9apVwVvmsPJZHpuYXNlkyO7Dht1E/mtime%3A1461365508/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/gEjrmwuHr2QelCGeD96iCqHl9JTIGyy3IQJgnBV7DzM/mtime%3A1462984542/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/Q-QpaPHK6KJYJUXj07Ns-SsKfqJpNK-BXWqI6-gondo/mtime%3A1461365509/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/Ou4pVX8GKi7W7c4Z88j86KSOdbhB2jgvh7HBYRpo698/mtime%3A1462983955/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/Q-QpaPHK6KJYJUXj07Ns-SsKfqJpNK-BXWqI6-gondo/mtime%3A1461365509/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/QGR9meb3PYv3_uuVrR0cGS7BkzeUYZvbMcGr4YQl784/mtime%3A1461365510/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/aRgGrF_URm-ONKjOPNc4Oe-Cz1BM4WTrDOCImElqTdo/mtime%3A1462984543/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/QGR9meb3PYv3_uuVrR0cGS7BkzeUYZvbMcGr4YQl784/mtime%3A1461365510/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/QGR9meb3PYv3_uuVrR0cGS7BkzeUYZvbMcGr4YQl784/mtime%3A1461365510/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/v-ZWcv7SwBW8LYCE0aqLapv6Ra_dltKpJ_zIqxfYBzM/mtime%3A1461365506/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/IMwGdnhTXiM5er46Jz0U9FItnv8l8sn9W9J-xlIV3WM/mtime%3A1468265102/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/IzJFYzveHF3U2w8ccj8ReqPMHg5qnct2_Xc2BhPdYqk/mtime%3A1468265103/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/119536_the_last_avatar_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/uzbEOMi7ux8nzw5zTk4_OOI2nwL0t36RzZjwvaisMAU/mtime%3A1461365506/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/9sPrB5YMNwTnULhD3YbdbLwE32SFXW_xjB3okoe6Bhk/mtime%3A1461365507/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/9sPrB5YMNwTnULhD3YbdbLwE32SFXW_xjB3okoe6Bhk/mtime%3A1461365507/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/dAHpa39Ebd1EWuqYPsgAWJKcv9iu7EF0c9fOyjuizQU/mtime%3A1468265104/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/1UGAvr_-abKQPrVSa3DPJNBO8PsPl8LzPnzjkrAhcto/mtime%3A1461365508/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/dAHpa39Ebd1EWuqYPsgAWJKcv9iu7EF0c9fOyjuizQU/mtime%3A1468265104/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/119536_the_last_avatar_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 504
+          },
+          "down_count": {
+            "value": 131
+          }
+        },
+        "preview": {
+          "nid": "116776",
+          "contentId": "The_Last_Avatar_HD30_T",
+          "duration": "79"
+        },
+        "feature": {
+          "nid": "117201",
+          "contentId": "The_Last_Avatar_HD30",
+          "duration": "5441"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "There were three mystery schools in ancient Egypt which correspond the eyes of Horus, left, right and middle. Drunvalo Melchizedek explains some of the teachings from the ancient mystery school known as the Left Eye of Horus.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "1"
+            }
+          ],
+          "episode": [
+            {
+              "value": "21"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "Drunvalo Melchizedek"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "124531",
+        "type": "product_video",
+        "title": "The Left Eye of Horus Mystery School",
+        "promote": "0",
+        "comment_count": "0",
+        "is_new": true,
+        "production_status": null,
+        "path": "video/left-eye-horus-mystery-school",
+        "series": {
+          "nid": "120986",
+          "title": "Flower of Life",
+          "path": "show/flower-life"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/hwlFYpSuUlXIXbU3wWwpmxbrZIpN4oKYF8En7XbtiFA/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/hwlFYpSuUlXIXbU3wWwpmxbrZIpN4oKYF8En7XbtiFA/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/eTUtTnjEY6RcE9JVpq0lRzrNUhCl2jMTCRfzsxkDCBw/mtime%3A1468005413/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/eTUtTnjEY6RcE9JVpq0lRzrNUhCl2jMTCRfzsxkDCBw/mtime%3A1468005413/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/eTUtTnjEY6RcE9JVpq0lRzrNUhCl2jMTCRfzsxkDCBw/mtime%3A1468005413/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/eTUtTnjEY6RcE9JVpq0lRzrNUhCl2jMTCRfzsxkDCBw/mtime%3A1468005413/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/R7sy2pBiPS9rYpaax1kgob2lki3XeWqlThF4ZCv3xP0/mtime%3A1468005415/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/R7sy2pBiPS9rYpaax1kgob2lki3XeWqlThF4ZCv3xP0/mtime%3A1468005415/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/-zTud5-rBOuoZESv_3F6lXylpL0xIb4XW4vJvWSa760/mtime%3A1468005416/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/-zTud5-rBOuoZESv_3F6lXylpL0xIb4XW4vJvWSa760/mtime%3A1468005416/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/-zTud5-rBOuoZESv_3F6lXylpL0xIb4XW4vJvWSa760/mtime%3A1468005416/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/-zTud5-rBOuoZESv_3F6lXylpL0xIb4XW4vJvWSa760/mtime%3A1468005416/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/rdnvkd4_FkY1OA-B5Ax_QPhKajePxmYaFN9PhmCrBGk/mtime%3A1468005417/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/rdnvkd4_FkY1OA-B5Ax_QPhKajePxmYaFN9PhmCrBGk/mtime%3A1468005417/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/rdnvkd4_FkY1OA-B5Ax_QPhKajePxmYaFN9PhmCrBGk/mtime%3A1468005417/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/69dqqavPgNWO4x-04hzhihMUIs855h-8l6t5U1TXtnU/mtime%3A1468005414/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/of_eeZtsQpOUzeFbSZdTG-G4b4jrWEB-JvdsvzxrTUA/mtime%3A1468299832/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/of_eeZtsQpOUzeFbSZdTG-G4b4jrWEB-JvdsvzxrTUA/mtime%3A1468299832/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/Nz5YJTW6nXpXdwBv_9WeROW9PZ3mT9K4KAV8ZbMIHmg/mtime%3A1468005414/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/Nz5YJTW6nXpXdwBv_9WeROW9PZ3mT9K4KAV8ZbMIHmg/mtime%3A1468005414/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/Nz5YJTW6nXpXdwBv_9WeROW9PZ3mT9K4KAV8ZbMIHmg/mtime%3A1468005414/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/lODGP_5rBr2WN69Kq1_DyzUlVf48ebOavTGNq8hndqA/mtime%3A1468299832/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/jd-KCEDVljBtPaFnMsgzFzCaJ4t2et-cu0zl8TIKO20/mtime%3A1468005415/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/PDNPPniRBKkalZzqaNTo-Q2qN5IgV1UBDWHvtNBXrFs/mtime%3A1468299833/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/124531_FoL_s1e21_the-left-eye-of-horus-mystery-school_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 19
+          },
+          "down_count": {
+            "value": 1
+          }
+        },
+        "feature": {
+          "nid": "122116",
+          "contentId": "FOL_Ep_21_The_Left_Eye_of_Horus_Mystery_School_4x3",
+          "duration": "2604"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "This is your opportunity, here on Gaia, to see and hear Drunvalo explain multifaceted subjects, stemming from Sacred Geometry, which weave an understanding of the universe and human consciousness.\n",
+              "format": "1"
+            }
+          ],
+          "season": null,
+          "episode": null,
+          "instructor": [
+            {
+              "value": null
+            }
+          ],
+          "video_lang": null
+        },
+        "nid": "120986",
+        "type": "product_series",
+        "title": "Flower of Life",
+        "promote": "0",
+        "comment_count": "17",
+        "is_new": false,
+        "production_status": null,
+        "path": "show/flower-life",
+        "product_type": "episodic",
+        "display_type": "normal",
+        "total_episodes": "22",
+        "total_seasons": "1",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/ln2cgZRJC7hYnpEqinyhuEwKMWMRk4KSErAeSmaNaS8/mtime%3A1463097496/sites/default/files/imagecache/hdtv_series_190x266/product_series_coverart_image/FoL_500x700_series.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/ln2cgZRJC7hYnpEqinyhuEwKMWMRk4KSErAeSmaNaS8/mtime%3A1463097496/sites/default/files/imagecache/hdtv_series_250x350/product_series_coverart_image/FoL_500x700_series.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/LDJY_kyicOhUy_QByKnvvWyWOzDsjog60D-QG9-pNF8/mtime%3A1463097497/sites/default/files/imagecache/hdtv_series_385x539/product_series_coverart_image/FoL_500x700_series.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/LDJY_kyicOhUy_QByKnvvWyWOzDsjog60D-QG9-pNF8/mtime%3A1463097497/sites/default/files/imagecache/hdtv_series_500x700/product_series_coverart_image/FoL_500x700_series.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/LDJY_kyicOhUy_QByKnvvWyWOzDsjog60D-QG9-pNF8/mtime%3A1463097497/sites/default/files/imagecache/roku_series_158x204/product_series_coverart_image/FoL_500x700_series.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/QrFL2xvgbs3ba_BxBZP-X-cg2cDWNwOjBpXu3blqxgc/mtime%3A1463097498/sites/default/files/imagecache/roku_series_214x306/product_series_coverart_image/FoL_500x700_series.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/UV2P8ansEs0Z_XiZ0Mnyu0GRmT_CV1VH-ypoLzb4DfA/mtime%3A1463097498/sites/default/files/imagecache/hero_320x200/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/UV2P8ansEs0Z_XiZ0Mnyu0GRmT_CV1VH-ypoLzb4DfA/mtime%3A1463097498/sites/default/files/imagecache/hero_570x200/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/9C8L6_BcJTAzfTTuupChUOi440HW77fBjQLIcil_fTI/mtime%3A1463097499/sites/default/files/imagecache/hero_570x300/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/9C8L6_BcJTAzfTTuupChUOi440HW77fBjQLIcil_fTI/mtime%3A1463097499/sites/default/files/imagecache/hero_820x300/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/9C8L6_BcJTAzfTTuupChUOi440HW77fBjQLIcil_fTI/mtime%3A1463097499/sites/default/files/imagecache/hero_820x400/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/30A-WoAgzBGL4m2dn7RWuLHSg7NHkyMHkb7f81Ds8ow/mtime%3A1463097500/sites/default/files/imagecache/hero_1070x400/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/30A-WoAgzBGL4m2dn7RWuLHSg7NHkyMHkb7f81Ds8ow/mtime%3A1463097500/sites/default/files/imagecache/hero_1920x400/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/aNkaz-jAeCk4U5LJl1MkbUMOAg-cCTn4sCz-jWm4Lfc/mtime%3A1463097501/sites/default/files/imagecache/xbox_video_356x180/product_series_hero_image/FoL_showheader_headline_977x453.png",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/aNkaz-jAeCk4U5LJl1MkbUMOAg-cCTn4sCz-jWm4Lfc/mtime%3A1463097501/sites/default/files/imagecache/xbox_video_977x494/product_series_hero_image/FoL_showheader_headline_977x453.png"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/ZOKefJ3NLKEOPfCXa-5rovh_h-Aa4V6QCArNviR3jJQ/mtime%3A1464023254/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/FoL_16x9_with_title_series_2.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/8cO1gYoV6rFleNowE6GWrK7PaHDDNPBqoHhOO0t1G4A/mtime%3A1468265212/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/FoL_16x9_with_title_series_2.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/eqCU7VUbyILJ-TzRYwrmUVmBPRpvNWR8qadFh-3MR5Q/mtime%3A1468265213/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/FoL_16x9_with_title_series_2.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/mw0RBDMmaR9JlITAiUdA6hBvac1HkwukPfqSwODI_Vw/mtime%3A1464023680/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/qThyQzYQLFdd3SNVc0up4B3byKIaJ2wERc8rUCt0A-Q/mtime%3A1464023681/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/qThyQzYQLFdd3SNVc0up4B3byKIaJ2wERc8rUCt0A-Q/mtime%3A1464023681/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/VvUmQ5eu-mBiUwlZcbOZ9y622ypqlX9m-fsImoYFa9o/mtime%3A1468265214/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/YG3oAuBUEWcTt2h7RVYumqPFzNbJNe6Ar04B7OxC_Lc/mtime%3A1464023682/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/-phmqUfqZx2k4mx-r2rKbzRVoeNzKhf8FATub45BZ3w/mtime%3A1468265215/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/FoL_16x9_without_title_series_2.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 1001
+          },
+          "down_count": {
+            "value": 0
+          }
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "Drunvalo Melchizedek discusses the Flower of Life from the feminine side. As he builds from the genesis pattern to the fruit of life, we find that we can go within the geometry to discover holographic aspects of these geometric progressions.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "1"
+            }
+          ],
+          "episode": [
+            {
+              "value": "22"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "Drunvalo Melchizedek "
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "124536",
+        "type": "product_video",
+        "title": "The Flower of Life seen from the Feminine Side Part 1",
+        "promote": "0",
+        "comment_count": "0",
+        "is_new": true,
+        "production_status": null,
+        "path": "video/flower-life-seen-feminine-side-part-1",
+        "series": {
+          "nid": "120986",
+          "title": "Flower of Life",
+          "path": "show/flower-life"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/Dp1iXLjFcIYixShkCJgNElMt556jtCtByrrYG5zsAww/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/Dp1iXLjFcIYixShkCJgNElMt556jtCtByrrYG5zsAww/mtime%3A1468005412/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/QEEGdflch_Xc9duE7wR3Wxj6QUdsa79jLZan_zIIoSs/mtime%3A1468005413/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/QEEGdflch_Xc9duE7wR3Wxj6QUdsa79jLZan_zIIoSs/mtime%3A1468005413/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/QEEGdflch_Xc9duE7wR3Wxj6QUdsa79jLZan_zIIoSs/mtime%3A1468005413/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/QEEGdflch_Xc9duE7wR3Wxj6QUdsa79jLZan_zIIoSs/mtime%3A1468005413/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_cvr_0.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/zpm6LwUjQJhgi_7Ut4-tn8z7dDRCmaLRtSVcOCPoM_4/mtime%3A1468005415/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/zpm6LwUjQJhgi_7Ut4-tn8z7dDRCmaLRtSVcOCPoM_4/mtime%3A1468005415/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/zpm6LwUjQJhgi_7Ut4-tn8z7dDRCmaLRtSVcOCPoM_4/mtime%3A1468005415/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/zpm6LwUjQJhgi_7Ut4-tn8z7dDRCmaLRtSVcOCPoM_4/mtime%3A1468005415/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/7ALVdO3MrcboU3lwW2wzzyHKmSvDKwZGyXLYXvO_hKs/mtime%3A1468005416/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/7ALVdO3MrcboU3lwW2wzzyHKmSvDKwZGyXLYXvO_hKs/mtime%3A1468005416/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/7ALVdO3MrcboU3lwW2wzzyHKmSvDKwZGyXLYXvO_hKs/mtime%3A1468005416/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/7ALVdO3MrcboU3lwW2wzzyHKmSvDKwZGyXLYXvO_hKs/mtime%3A1468005416/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/N3ze2RLB6NOLqoiRtUbW5INKS08jieP2uOoXCAQ7ku4/mtime%3A1468005417/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/7iOoAL36ayBpnTgxVWfcMal6G4YnYn85dvFMaFl2yIg/mtime%3A1468005413/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/YMKlu7Wz4qCHOwm_Opyu2Uu1kr7S4ntpq9SsjzpXd9M/mtime%3A1468299841/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/YMKlu7Wz4qCHOwm_Opyu2Uu1kr7S4ntpq9SsjzpXd9M/mtime%3A1468299841/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_16x9_0.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/rlfJODdui9jw6wxRoBrG2KXgnYwPrcWMVTNBo9UOYtI/mtime%3A1468005414/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/rlfJODdui9jw6wxRoBrG2KXgnYwPrcWMVTNBo9UOYtI/mtime%3A1468005414/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/rlfJODdui9jw6wxRoBrG2KXgnYwPrcWMVTNBo9UOYtI/mtime%3A1468005414/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/e3p9-L8pCggmc6s-BYu6TaRUw3T6yAX78McwsYhV1aY/mtime%3A1468299842/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/76OseClVKZnELz-0u4GawbRbAolKq4eZP4qb7TqpEAw/mtime%3A1468005415/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/e3p9-L8pCggmc6s-BYu6TaRUw3T6yAX78McwsYhV1aY/mtime%3A1468299842/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/124536_FoL_s1e22_the-flower-of-life-seen-from-the-feminine-side_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 22
+          },
+          "down_count": {
+            "value": 1
+          }
+        },
+        "feature": {
+          "nid": "122121",
+          "contentId": "FOL_Ep_22_The_Flower_of_Life_Seen_from_the_Feminine_Side_Part_1_4x3",
+          "duration": "2667"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "As William Henry guides us through the Gnostic Gospel of Philip, we see that the anointing oil of ascension has also held a prominent place in ancient Egypt with the ascension rites of Akhenaten. This further leads us to examine to the sun as a star gate opening into a wormhole.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "5"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "121761",
+        "type": "product_video",
+        "title": "Anointing Oil of Ascension",
+        "promote": "0",
+        "comment_count": "26",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/anointing-oil-ascension",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/EyOdSatSRndpS96pKFAEg8Rj2nhD2TZm0dkCZz4lp1M/mtime%3A1467221422/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/FDAUx5W1T6OlsHQkSU4CGghk3aor5_eTIGSgDXJ2rxA/mtime%3A1467221423/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/FDAUx5W1T6OlsHQkSU4CGghk3aor5_eTIGSgDXJ2rxA/mtime%3A1467221423/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/FDAUx5W1T6OlsHQkSU4CGghk3aor5_eTIGSgDXJ2rxA/mtime%3A1467221423/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/s5jfIpA1OZUHz4VD3NKufsm-kLtGcw0fI0R_HWZaPiE/mtime%3A1467221424/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/s5jfIpA1OZUHz4VD3NKufsm-kLtGcw0fI0R_HWZaPiE/mtime%3A1467221424/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/121761_a_s2e5_anointing-oil-of-ascension_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/Q8JNygGYmpN3JfsuY8CF6Vq0KUEf1oxTvy-4Fkm2twQ/mtime%3A1467221426/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/Q8JNygGYmpN3JfsuY8CF6Vq0KUEf1oxTvy-4Fkm2twQ/mtime%3A1467221426/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/Q8JNygGYmpN3JfsuY8CF6Vq0KUEf1oxTvy-4Fkm2twQ/mtime%3A1467221426/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/Q8JNygGYmpN3JfsuY8CF6Vq0KUEf1oxTvy-4Fkm2twQ/mtime%3A1467221426/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/Q8JNygGYmpN3JfsuY8CF6Vq0KUEf1oxTvy-4Fkm2twQ/mtime%3A1467221426/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/jf6bNjxEuH4D0Qk8bjJRIW36qBgT3-r1zRUupqfwnF0/mtime%3A1467221427/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/jf6bNjxEuH4D0Qk8bjJRIW36qBgT3-r1zRUupqfwnF0/mtime%3A1467221427/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/jf6bNjxEuH4D0Qk8bjJRIW36qBgT3-r1zRUupqfwnF0/mtime%3A1467221427/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/ChRvRgsz0r714Zsk-OHR6DfV1xb1r7jBvrjZWhhzU5A/mtime%3A1467221428/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/GI5imjtaPqKW8s4via6rSsK7tnD7rfh_1bdoRTCcJx4/mtime%3A1467221424/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/F7Vp51S6mNyanATELOAv-h4nskEf2h7q8Ter1N1T14I/mtime%3A1468265104/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/F7Vp51S6mNyanATELOAv-h4nskEf2h7q8Ter1N1T14I/mtime%3A1468265104/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/121761_a_s2e5_anointing-oil-of-ascension_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/Z8UAFdeJI-JkMSLcbhO7rwtRa6_UgKcO9x934w0tj6s/mtime%3A1467221424/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/QLJSe2ulIPAc02Eg6qsY9lnc_MnUNsxI7FkZ40ZAQmg/mtime%3A1467221425/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/QLJSe2ulIPAc02Eg6qsY9lnc_MnUNsxI7FkZ40ZAQmg/mtime%3A1467221425/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/uLONG8rf5Xuj002T7AkkN9QzoUs1RCR7TYU3u-QL4nQ/mtime%3A1468265105/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/QLJSe2ulIPAc02Eg6qsY9lnc_MnUNsxI7FkZ40ZAQmg/mtime%3A1467221425/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/2auD7hN_FuGfCVUH6AJb3ZXlXLrU1hoemsSv5jmYpd4/mtime%3A1468265106/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/121761_a_s2e5_anointing-oil-of-ascension_16x9_clean.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 202
+          },
+          "down_count": {
+            "value": 6
+          }
+        },
+        "preview": {
+          "nid": "123956",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP05_Anointing_Oil_Show_06_XD_T",
+          "duration": "99"
+        },
+        "feature": {
+          "nid": "123981",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP05_Anointing_Oil_Show_06_XD",
+          "duration": "1597"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "William Henry explores soul lore from the Egyptian and Hindu traditions which unravel the five unseen layers of the human soul. But it is the Gnostic Gospel of Philip which reveals the secrets of transfiguration into the rainbow body of light.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "4"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "121756",
+        "type": "product_video",
+        "title": "The Five Layers of the Soul",
+        "promote": "0",
+        "comment_count": "28",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/five-layers-soul",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/E0L_sYg0UYLOeqe-6nA878PtB9_RId7RwpTndoGmN2Y/mtime%3A1466528194/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/E0L_sYg0UYLOeqe-6nA878PtB9_RId7RwpTndoGmN2Y/mtime%3A1466528194/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/TtWhAgapKsmTzavEcc0U1NpSxanLjl7bd9mlyssr6F0/mtime%3A1466528195/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/TtWhAgapKsmTzavEcc0U1NpSxanLjl7bd9mlyssr6F0/mtime%3A1466528195/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/T21_aS0YwwUPyD5eYcvka7XjegtzBrltaNs9BSPpQQY/mtime%3A1466528196/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/T21_aS0YwwUPyD5eYcvka7XjegtzBrltaNs9BSPpQQY/mtime%3A1466528196/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/121756_a_s2e4_the-five-layers-of-the-soul_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/RaNROmRJHt9VETARKG4yRWTPpOv2R6-u2dqnuP_BGRo/mtime%3A1466528198/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/RaNROmRJHt9VETARKG4yRWTPpOv2R6-u2dqnuP_BGRo/mtime%3A1466528198/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/bP2_b_nmMZAMGjhilPcLK9EQMR7HX7weFqrkUQYnL4A/mtime%3A1466528199/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/bP2_b_nmMZAMGjhilPcLK9EQMR7HX7weFqrkUQYnL4A/mtime%3A1466528199/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/rsP3f1j0IO2jcOlOBr7GZk_ZTppRwE7RRoUDP2dE_OQ/mtime%3A1466528200/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/rsP3f1j0IO2jcOlOBr7GZk_ZTppRwE7RRoUDP2dE_OQ/mtime%3A1466528200/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/rsP3f1j0IO2jcOlOBr7GZk_ZTppRwE7RRoUDP2dE_OQ/mtime%3A1466528200/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/5-zeMH97Q_7EffCmJ26SDTvUTW5hxwBzBIf8h7HDbW8/mtime%3A1466528201/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/5-zeMH97Q_7EffCmJ26SDTvUTW5hxwBzBIf8h7HDbW8/mtime%3A1466528201/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/UNOhu4xnafW0RBbRFvgG5eHpSUJZ7Z9DG8NWX0NCbIY/mtime%3A1466528196/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/MY2P05Hfje2YUhKnTN7TTudeDVLeNykte3uOGSccmHg/mtime%3A1468265098/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/vcB7W_7u4CszPRBSI1m0SOxY_L7qMOiEkAh8nmQtSJQ/mtime%3A1468265099/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/121756_a_s2e4_the-five-layers-of-the-soul_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/XYv5y0AGHoNoVI6QbV7JAcxC-xrU8BEHR24M3I_IqtI/mtime%3A1466528196/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/Yj9BZVAziHRevbZWHW_sIBFhJPQ6TgUnX0Xpz4YnVcM/mtime%3A1466528197/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/Yj9BZVAziHRevbZWHW_sIBFhJPQ6TgUnX0Xpz4YnVcM/mtime%3A1466528197/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/6O_Rm1oWBk7Jc33uImSEGatXEqk_bViJQEqg2YbIgxM/mtime%3A1468265100/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/Aw6hx6qizIoCqffrwlo3nUVNtjKK7eckRyVIN5y14IM/mtime%3A1466528198/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/jTmOjAoaOSUx8u03foBGPqTeeJ1F_tvswU4prVcYzBI/mtime%3A1468265101/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/121756_a_s2e4_the-five-layers-of-the-soul_16x9_clean.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 245
+          },
+          "down_count": {
+            "value": 10
+          }
+        },
+        "preview": {
+          "nid": "123951",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP04_FIVE_LAYERS_Show_05_XD_T",
+          "duration": "75"
+        },
+        "feature": {
+          "nid": "123991",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP04_FIVE_LAYERS_Show_05_XD_REV",
+          "duration": "1731"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "In this overview of Season 2, William Henry examines the origin of the soul as depicted through arcane works of art, in order to reveal the soul’s path of initiation and ascension.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "0"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "123581",
+        "type": "product_video",
+        "title": "Introduction: Awakening the Soul",
+        "promote": "0",
+        "comment_count": "6",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/introduction-awakening-soul",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/rfIvU7Y_mTVkCuKQ3JbWgcuNSNJ9_qi9EuqVCd92pTw/mtime%3A1464922757/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/rfIvU7Y_mTVkCuKQ3JbWgcuNSNJ9_qi9EuqVCd92pTw/mtime%3A1464922757/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/JXggDZWMpnX3RfdWi37HyMl2Ny3DGecdu3zT8yvt9CU/mtime%3A1464922758/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/JXggDZWMpnX3RfdWi37HyMl2Ny3DGecdu3zT8yvt9CU/mtime%3A1464922758/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/JXggDZWMpnX3RfdWi37HyMl2Ny3DGecdu3zT8yvt9CU/mtime%3A1464922758/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/JXggDZWMpnX3RfdWi37HyMl2Ny3DGecdu3zT8yvt9CU/mtime%3A1464922758/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/123581_as_s2e0_awakening_the_soul_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/0bSLWJSVHEpDZNjrg55eaNUJsQlBF-Boy8PdWm7bixw/mtime%3A1464922761/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/0bSLWJSVHEpDZNjrg55eaNUJsQlBF-Boy8PdWm7bixw/mtime%3A1464922761/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/u5E-ANbbkO6_T6zoP4HMnVXmbb6OB5bX0_C-MT9XkM4/mtime%3A1464922762/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/u5E-ANbbkO6_T6zoP4HMnVXmbb6OB5bX0_C-MT9XkM4/mtime%3A1464922762/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/5yMJBvRRzvBTCBK3-NqIUyeaCMJSMlUmeCLiLkuaiZw/mtime%3A1464922763/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/5yMJBvRRzvBTCBK3-NqIUyeaCMJSMlUmeCLiLkuaiZw/mtime%3A1464922763/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/5yMJBvRRzvBTCBK3-NqIUyeaCMJSMlUmeCLiLkuaiZw/mtime%3A1464922763/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/KDPqqCfvJOsQ8cVzgZn3wWrUcTcwlxlQxoy0vgPBTq4/mtime%3A1464922764/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/KDPqqCfvJOsQ8cVzgZn3wWrUcTcwlxlQxoy0vgPBTq4/mtime%3A1464922764/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/PzltMiIGcJ0ZgFkPrCimhzBluJBhUE10WdgPK6pcflQ/mtime%3A1464922759/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/nm44cfpbboY_1GpbIrgQZtaPQaW_VVC8W74jpyH12_8/mtime%3A1468265106/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/oAOd47sTmu4CxhbxVk944GgSF4hfbKcN8IIYTqkW_K4/mtime%3A1468265108/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/123581_as_s2e0_awakening_the_soul_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/ZfTP9XsnEb45T5FTwtramOzXICdT952eNhP4LzHYEV8/mtime%3A1464922759/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/jzfNZHffqKEF8S_emo5n5KWHoGOms8zbBA7DtnIRMJI/mtime%3A1464922760/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/jzfNZHffqKEF8S_emo5n5KWHoGOms8zbBA7DtnIRMJI/mtime%3A1464922760/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/mXBRKt0B2fDcb78qgYGaA9-5U19bL3nAtQDZa_53HAw/mtime%3A1468265109/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/UBdraqkWADBdJaKcwdMg97fk9WbkUbBSTCzWt4k4OFU/mtime%3A1464922761/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/mXBRKt0B2fDcb78qgYGaA9-5U19bL3nAtQDZa_53HAw/mtime%3A1468265109/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/123581_as_s2e0_awakening_the_soul_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 254
+          },
+          "down_count": {
+            "value": 7
+          }
+        },
+        "feature": {
+          "nid": "123926",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP00_AWAKENING_THE_SOUL_XD",
+          "duration": "440"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "William Henry explains the cosmic origin of physical and spiritual life from the moment our souls were brought into being and throughout the entirety of our existence. We have always been a part of a greater consciousness and we can see this in the imagery of the cosmic egg.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "1"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "123586",
+        "type": "product_video",
+        "title": "The Cosmic Egg",
+        "promote": "0",
+        "comment_count": "48",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/cosmic-egg",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/BkXpMG9D7VroSA9Ab5qpgoJE46mxvI-mVcBdRsYvkyU/mtime%3A1464922758/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/BkXpMG9D7VroSA9Ab5qpgoJE46mxvI-mVcBdRsYvkyU/mtime%3A1464922758/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/BkXpMG9D7VroSA9Ab5qpgoJE46mxvI-mVcBdRsYvkyU/mtime%3A1464922758/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/j7ym5IYb4a2oDxLsHjupeTtCfq2g6_qOuHJDLZRFUok/mtime%3A1464922759/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/j7ym5IYb4a2oDxLsHjupeTtCfq2g6_qOuHJDLZRFUok/mtime%3A1464922759/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/j7ym5IYb4a2oDxLsHjupeTtCfq2g6_qOuHJDLZRFUok/mtime%3A1464922759/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/123586_as_s2e1_the_cosmic_egg_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/PCVtQ6Ht31p4ZoSDN3NToe6WZT_R-8dwWncMn8jjbXA/mtime%3A1464922761/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/OtaB2k6k0xa0N_BOhA0B1RsOuuO9JK7WnGa47wHKzb4/mtime%3A1464922762/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/OtaB2k6k0xa0N_BOhA0B1RsOuuO9JK7WnGa47wHKzb4/mtime%3A1464922762/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/OtaB2k6k0xa0N_BOhA0B1RsOuuO9JK7WnGa47wHKzb4/mtime%3A1464922762/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/wZBIS06s_U07AT4gZROzHVC-3hf4UgU1ujVn2askt_g/mtime%3A1464922763/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/wZBIS06s_U07AT4gZROzHVC-3hf4UgU1ujVn2askt_g/mtime%3A1464922763/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/ByM_UF125BKOjWWnD6VLjQy2PHG8UKDRa-kzxefi2fg/mtime%3A1464922764/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/ByM_UF125BKOjWWnD6VLjQy2PHG8UKDRa-kzxefi2fg/mtime%3A1464922764/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/2oF-saKXA8vcWsTT-Zr9AMD3fZKTGWbqwxWaVJyvpvg/mtime%3A1464922765/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/6Zs6X_k-IetG63QnoDcK3ppN_qM9EiQs5fZi4JvHGtE/mtime%3A1464922759/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/lPULm9BryqdSxg2L28E7_Pe1dgqkvcy5SrXf6ji2Fro/mtime%3A1468265106/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/NvtyN7HnYhIU4fBJnx-WpSmIBMOBWyAmit5jvIGrAv0/mtime%3A1468265107/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/123586_as_s2e1_the_cosmic_egg_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/P4I919zV03cjMo9NL1rbFz0Ym1D1NEpoXq37TXtUHgE/mtime%3A1464922760/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/P4I919zV03cjMo9NL1rbFz0Ym1D1NEpoXq37TXtUHgE/mtime%3A1464922760/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/P4I919zV03cjMo9NL1rbFz0Ym1D1NEpoXq37TXtUHgE/mtime%3A1464922760/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/-G_1HB2JMj8c-B1DLtZG_VX2ZmQuffeh0tZvypL7Tjc/mtime%3A1468265108/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/aSlM1jIbDS1pGC10wRoxpl9eIOjj8TQcTEVDHULSqzg/mtime%3A1464922761/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/dzG10HxFIiDZp-SDY9A42kM_Yal_uompxYYgqznUrPA/mtime%3A1468265109/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/123586_as_s2e1_the_cosmic_egg_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 435
+          },
+          "down_count": {
+            "value": 13
+          }
+        },
+        "preview": {
+          "nid": "123936",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP01_COSMIC_EGG_Show_1_2_XD_T",
+          "duration": "58"
+        },
+        "feature": {
+          "nid": "123931",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP01_COSMIC_EGG_Show_1_2_XD",
+          "duration": "2731"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "The ancients knew a great deal about the nature of the soul and depicted the process of ascension through visual metaphors relevant to their particular cultures. We find striking parallels to these ancient concepts of transcendence within the very frontiers of modern science.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "3"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "Enlgish"
+            }
+          ]
+        },
+        "nid": "121751",
+        "type": "product_video",
+        "title": "Frontiers of Science and the Soul",
+        "promote": "0",
+        "comment_count": "22",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/frontiers-science-and-soul",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/wxkTrvTXDeVvf22C0Ot4rVVP4nweouCWIJs1eHyoqbQ/mtime%3A1466449901/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/wxkTrvTXDeVvf22C0Ot4rVVP4nweouCWIJs1eHyoqbQ/mtime%3A1466449901/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/wxkTrvTXDeVvf22C0Ot4rVVP4nweouCWIJs1eHyoqbQ/mtime%3A1466449901/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/UIudyYL_1UlLI3QGJSqLG4nAHA5PPnjOhdgVuozr_4s/mtime%3A1466449902/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/UIudyYL_1UlLI3QGJSqLG4nAHA5PPnjOhdgVuozr_4s/mtime%3A1466449902/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/UIudyYL_1UlLI3QGJSqLG4nAHA5PPnjOhdgVuozr_4s/mtime%3A1466449902/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/121751_a_s2e3_frontiers-of-science-and-soul_cvr_0.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/MhjiREins66DcEeVuJn6_NUX3bunNkeJwsUN6oHvj6A/mtime%3A1466449903/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/MhjiREins66DcEeVuJn6_NUX3bunNkeJwsUN6oHvj6A/mtime%3A1466449903/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/Y-yl0R63pT9nkZsKOksfdDJ51mFVHZIdwcnFLDH2Lt4/mtime%3A1466449904/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/Y-yl0R63pT9nkZsKOksfdDJ51mFVHZIdwcnFLDH2Lt4/mtime%3A1466449904/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/Y-yl0R63pT9nkZsKOksfdDJ51mFVHZIdwcnFLDH2Lt4/mtime%3A1466449904/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/Y-yl0R63pT9nkZsKOksfdDJ51mFVHZIdwcnFLDH2Lt4/mtime%3A1466449904/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/eWBdMqO1kZts3TMepeyOOoSqsrcRM67lbocc8EfR7go/mtime%3A1466449905/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/eWBdMqO1kZts3TMepeyOOoSqsrcRM67lbocc8EfR7go/mtime%3A1466449905/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/eWBdMqO1kZts3TMepeyOOoSqsrcRM67lbocc8EfR7go/mtime%3A1466449905/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/MhjiREins66DcEeVuJn6_NUX3bunNkeJwsUN6oHvj6A/mtime%3A1466449903/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/7b7wnYPgcLTu-fa-1xqIXIkGW4TyzsErMzNQEFt3Sb0/mtime%3A1468265099/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/Ruj1p_uAtEWGhJBxwxl56D3oCOQ-t-dKkjdz1XPYlRs/mtime%3A1468265100/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/121751_a_s2e3_frontiers-of-science-and-soul_16x9_0.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/QcUKHbJUzgt2WTqEFObm49j64UhG2LswXHfHKMBhC60/mtime%3A1465924602/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/fJr7jCzLrS46kNFAeqQ7bXEhfEQugKVda8J_131Nqj8/mtime%3A1465924603/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/fJr7jCzLrS46kNFAeqQ7bXEhfEQugKVda8J_131Nqj8/mtime%3A1465924603/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/E34enjlKXksPCoEclNpxSO2BdznzVy6IJrLobZPwXVk/mtime%3A1468265101/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/T5SHgBnrVc9jtueThmm5KCD9zl9ionqzZ3U7rYW-v6g/mtime%3A1465924604/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/E34enjlKXksPCoEclNpxSO2BdznzVy6IJrLobZPwXVk/mtime%3A1468265101/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/121751_a_s2e3_frontiers-of-science-and-soul_16x9_clean.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 241
+          },
+          "down_count": {
+            "value": 10
+          }
+        },
+        "preview": {
+          "nid": "123946",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP03_FRONTIER_OF_SCIENCE_AND_SOUL_Show_04_XD_T",
+          "duration": "80"
+        },
+        "feature": {
+          "nid": "123976",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP03_FRONTIER_OF_SCIENCE_AND_SOUL_Show_04_XD",
+          "duration": "1676"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "Robert Phoenix returns to provide a preview of the astrological predictions for summer 2016. During the next few months we may see ugly secrets emerge and dark conspiracies come to light as many of the transits lend their influence to reveal sensitive information.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "6"
+            }
+          ],
+          "episode": [
+            {
+              "value": "28"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "Regina Meredith"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "124846",
+        "type": "product_video",
+        "title": "Astrological Revelations for Summer 2016 with Robert Phoenix",
+        "promote": "0",
+        "comment_count": "37",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/astrological-revelations-summer-2016-robert-phoenix",
+        "series": {
+          "nid": "30035",
+          "title": "Open Minds",
+          "path": "show/open-minds"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/PM01ym9KwYhSEccCv6xG6Q_9CkRELSISP-g5WHcskCc/mtime%3A1466624169/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/PM01ym9KwYhSEccCv6xG6Q_9CkRELSISP-g5WHcskCc/mtime%3A1466624169/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/PM01ym9KwYhSEccCv6xG6Q_9CkRELSISP-g5WHcskCc/mtime%3A1466624169/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/fqk4-eXpj3FzL7UXV9ET8Ha2d7EJOVh94mvr0NV3Ugc/mtime%3A1466624170/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/fqk4-eXpj3FzL7UXV9ET8Ha2d7EJOVh94mvr0NV3Ugc/mtime%3A1466624170/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/fqk4-eXpj3FzL7UXV9ET8Ha2d7EJOVh94mvr0NV3Ugc/mtime%3A1466624170/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/3L3Uz3Kz8ph08E-zouBBKRXDuGcpkpjN1FGeCfslSo0/mtime%3A1466624172/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/3L3Uz3Kz8ph08E-zouBBKRXDuGcpkpjN1FGeCfslSo0/mtime%3A1466624172/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/3L3Uz3Kz8ph08E-zouBBKRXDuGcpkpjN1FGeCfslSo0/mtime%3A1466624172/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/3L3Uz3Kz8ph08E-zouBBKRXDuGcpkpjN1FGeCfslSo0/mtime%3A1466624172/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/k5wRxoclWGrL011mMPS0SWSeSyYg950sQqanMomlSCI/mtime%3A1466624173/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/k5wRxoclWGrL011mMPS0SWSeSyYg950sQqanMomlSCI/mtime%3A1466624173/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/k5wRxoclWGrL011mMPS0SWSeSyYg950sQqanMomlSCI/mtime%3A1466624173/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/Cs9j1EooK2nJuRyTu-ImO4nRqERuieUI5Fh8ERDQnDI/mtime%3A1466624174/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/Cs9j1EooK2nJuRyTu-ImO4nRqERuieUI5Fh8ERDQnDI/mtime%3A1466624174/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/tGWWI34B06K2ZttdvCHBKi04yU6ky4LTlc85J_Ob_p4/mtime%3A1466624170/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/cubbxc8ST6CSjjX73eFBYDfXc9RJ4z7hBkYdE7ubGmE/mtime%3A1468265163/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/WY6wiRtNWqx38IIN3rU4d9AZd_YEa6QIS735aehP0ys/mtime%3A1468265164/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/dwyoL4dKKSXcNvymYs53_HvzxcciSwwIrUmWoFsvZmk/mtime%3A1466624170/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/mkzm4OifMUcVS1lIEq89IsAQLc4v9fM_i0onE0gnUAM/mtime%3A1466624171/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/mkzm4OifMUcVS1lIEq89IsAQLc4v9fM_i0onE0gnUAM/mtime%3A1466624171/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/ULCLhrEXNNVC5T36FQ8r7DNHKglIUWsgb13PryNH6Ms/mtime%3A1468265165/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/mkzm4OifMUcVS1lIEq89IsAQLc4v9fM_i0onE0gnUAM/mtime%3A1466624171/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/kObuJcPkfmrOK7n8p0neig8WeACazc4adsAaqtZwNlI/mtime%3A1468265166/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/124846_om_s6e28_astrological_revelations_for_summer_2016_w_robert-phoenix_16x9_clean.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 251
+          },
+          "down_count": {
+            "value": 16
+          }
+        },
+        "preview": {
+          "nid": "125101",
+          "contentId": "GTV_OM_Robert_Phoenix_Astrological_Revelations_Summer_2016_XD_T",
+          "duration": "71"
+        },
+        "feature": {
+          "nid": "125141",
+          "contentId": "GTV_OM_Robert_Phoenix_Astrological_Revelations_Summer_2016_XD",
+          "duration": "3702"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "The Emerald Tablets may be the greatest source of esoteric secrets for all of time, and its author is even more of a mystery. Drunvalo Melchizedek offers his personal experiences of the teachings of Thoth and the Emerald Tablets which have reached different parts of the world.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "1"
+            }
+          ],
+          "episode": [
+            {
+              "value": "19"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "Drunvalo Melchizedek"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "124521",
+        "type": "product_video",
+        "title": "The Emerald Tablets and Thoth's Story",
+        "promote": "0",
+        "comment_count": "2",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/emerald-tablets-and-thoths-story",
+        "series": {
+          "nid": "120986",
+          "title": "Flower of Life",
+          "path": "show/flower-life"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/ud-ogYaay9F8gUjbOO7noaF2Cqb5e6yZktgjpANkXz0/mtime%3A1467221424/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/ud-ogYaay9F8gUjbOO7noaF2Cqb5e6yZktgjpANkXz0/mtime%3A1467221424/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/ud-ogYaay9F8gUjbOO7noaF2Cqb5e6yZktgjpANkXz0/mtime%3A1467221424/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/RD01vxhiZLMCtnv3Km4dBs-x7VMwRhR9UoXM_7FcElE/mtime%3A1467221425/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/RD01vxhiZLMCtnv3Km4dBs-x7VMwRhR9UoXM_7FcElE/mtime%3A1467221425/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/RD01vxhiZLMCtnv3Km4dBs-x7VMwRhR9UoXM_7FcElE/mtime%3A1467221425/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/HZBInOy5ytHKzBBFtm8aQXzmQj2Uex4gHN0Yy9lQjIg/mtime%3A1467221427/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/HZBInOy5ytHKzBBFtm8aQXzmQj2Uex4gHN0Yy9lQjIg/mtime%3A1467221427/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/HZBInOy5ytHKzBBFtm8aQXzmQj2Uex4gHN0Yy9lQjIg/mtime%3A1467221427/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/KhhaNSf6hdUTCHcmE5KRuw3jdNVSymy1EA6CwINmThc/mtime%3A1467221428/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/KhhaNSf6hdUTCHcmE5KRuw3jdNVSymy1EA6CwINmThc/mtime%3A1467221428/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/KhhaNSf6hdUTCHcmE5KRuw3jdNVSymy1EA6CwINmThc/mtime%3A1467221428/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/KhhaNSf6hdUTCHcmE5KRuw3jdNVSymy1EA6CwINmThc/mtime%3A1467221428/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/KhhaNSf6hdUTCHcmE5KRuw3jdNVSymy1EA6CwINmThc/mtime%3A1467221428/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/QLc76dsDv_rDIAl79qEGAWCulysTO5BRnug8PE4dMrg/mtime%3A1467221429/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/hcDr9NPze4RkEJ4NgIMm3IUxzrT75IHHvK_9aIPre2c/mtime%3A1467221425/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/8gRQiDnhCmU3jo9P-loxQwqO9UVOTmXl_vr-nyA8Or4/mtime%3A1468265188/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/LdearZdeh_c4lDHHMPesoNCkbpgSjT0JsZo_7b8JdQ4/mtime%3A1468265189/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/r32DsD-Pn_9a9l-hKsjQakCLFYsAWIAShIb6K-l9e4w/mtime%3A1467221425/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/n7C8OguVhmiD0fwO0uEpsVnVgYOj-4uiMBaGSxTKW2M/mtime%3A1467221426/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/n7C8OguVhmiD0fwO0uEpsVnVgYOj-4uiMBaGSxTKW2M/mtime%3A1467221426/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/gSseiV3AB438_88A1KkB3nw5HCLIZAWSW8aR512yhAs/mtime%3A1468265190/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/V3KllO-Au4QjHI2GCALXDlR6U1AMpFNoaFREvdx_xDI/mtime%3A1467221427/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/gSseiV3AB438_88A1KkB3nw5HCLIZAWSW8aR512yhAs/mtime%3A1468265190/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/124521_FoL_s1e19_the-emerald-tablets-and-toths-story_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 45
+          },
+          "down_count": {
+            "value": 2
+          }
+        },
+        "feature": {
+          "nid": "122106",
+          "contentId": "FOL_Ep_19_The_Emerald_Talbest_and_Thoths_Story_4x3",
+          "duration": "6490"
+        },
+        "drupal_cache": "hit"
+      },
+      {
+        "fields": {
+          "teaser": [
+            {
+              "value": "William Henry examines the historical remnants of the Middle East, texts and artworks, which indicate that the ancient Annunaki may not really have come to harvest all the gold from our planet. Rather they may have left behind the secrets of soul ascension, a different kind of golden harvest.\n",
+              "format": "1"
+            }
+          ],
+          "season": [
+            {
+              "value": "2"
+            }
+          ],
+          "episode": [
+            {
+              "value": "2"
+            }
+          ],
+          "instructor": [
+            {
+              "value": "William Henry"
+            }
+          ],
+          "video_lang": [
+            {
+              "value": "English"
+            }
+          ]
+        },
+        "nid": "123591",
+        "type": "product_video",
+        "title": "The Secrets of Soul Ascension",
+        "promote": "0",
+        "comment_count": "22",
+        "is_new": false,
+        "production_status": null,
+        "path": "video/secrets-soul-ascension",
+        "series": {
+          "nid": "43596",
+          "title": "Arcanum",
+          "path": "show/arcanum"
+        },
+        "product_type": "episode",
+        "display_type": "normal",
+        "admin_category": {
+          "tid": "26616",
+          "vid": "12",
+          "name": "Esoteric",
+          "weight": "0"
+        },
+        "coverart_image": {
+          "hdtv_190x266": "http://img.gtvcdn.com/cdn/farfuture/kXnBEcLyJ4AVgYcXJNUx6FA_ov2oN7leHkUTfg_g60k/mtime%3A1465324340/sites/default/files/imagecache/hdtv_video_190x266/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg",
+          "hdtv_250x350": "http://img.gtvcdn.com/cdn/farfuture/x56mHvnMtlFODz7YT6pGrHokZAcggbqRWSinkzCRtIM/mtime%3A1465324341/sites/default/files/imagecache/hdtv_video_250x350/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg",
+          "hdtv_385x539": "http://img.gtvcdn.com/cdn/farfuture/x56mHvnMtlFODz7YT6pGrHokZAcggbqRWSinkzCRtIM/mtime%3A1465324341/sites/default/files/imagecache/hdtv_video_385x539/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg",
+          "hdtv_500x700": "http://img.gtvcdn.com/cdn/farfuture/x56mHvnMtlFODz7YT6pGrHokZAcggbqRWSinkzCRtIM/mtime%3A1465324341/sites/default/files/imagecache/hdtv_video_500x700/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg",
+          "roku_158x204": "http://img.gtvcdn.com/cdn/farfuture/x56mHvnMtlFODz7YT6pGrHokZAcggbqRWSinkzCRtIM/mtime%3A1465324341/sites/default/files/imagecache/roku_video_158x204/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg",
+          "roku_214x306": "http://img.gtvcdn.com/cdn/farfuture/tQLUDWK5POhC5APJrvak-C2qRHX4g1heubTUcEFUtms/mtime%3A1465324342/sites/default/files/imagecache/roku_video_214x306/product_video_coverart_image/123591_as_s2e2_the_secrets_of_soul_ascension_cvr.jpg"
+        },
+        "hero_image": {
+          "hero_320x200": "http://img.gtvcdn.com/cdn/farfuture/a_wp7JJvz-eh2JFXR35X6KDVN-X0MgRP1RZQpdhK33E/mtime%3A1465324344/sites/default/files/imagecache/hero_320x200/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_570x200": "http://img.gtvcdn.com/cdn/farfuture/a_wp7JJvz-eh2JFXR35X6KDVN-X0MgRP1RZQpdhK33E/mtime%3A1465324344/sites/default/files/imagecache/hero_570x200/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_570x300": "http://img.gtvcdn.com/cdn/farfuture/Uuw_OXoBBOjSmSHAJaktNNY7l2gpplaQLNguXT3vlio/mtime%3A1465324345/sites/default/files/imagecache/hero_570x300/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_820x300": "http://img.gtvcdn.com/cdn/farfuture/Uuw_OXoBBOjSmSHAJaktNNY7l2gpplaQLNguXT3vlio/mtime%3A1465324345/sites/default/files/imagecache/hero_820x300/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_820x400": "http://img.gtvcdn.com/cdn/farfuture/Uuw_OXoBBOjSmSHAJaktNNY7l2gpplaQLNguXT3vlio/mtime%3A1465324345/sites/default/files/imagecache/hero_820x400/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_1070x400": "http://img.gtvcdn.com/cdn/farfuture/23ifWTPVnv_xoNItYQM-Jy8XwBSBU7MzFRkRWEoF5K4/mtime%3A1465324346/sites/default/files/imagecache/hero_1070x400/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "hero_1920x400": "http://img.gtvcdn.com/cdn/farfuture/23ifWTPVnv_xoNItYQM-Jy8XwBSBU7MzFRkRWEoF5K4/mtime%3A1465324346/sites/default/files/imagecache/hero_1920x400/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "xbox_356x180": "http://img.gtvcdn.com/cdn/farfuture/cfzv8xgE0gqt_OMRH-QKUc-eH5rfK9oWgxDql81yYQg/mtime%3A1465324347/sites/default/files/imagecache/xbox_video_356x180/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "xbox_977x494": "http://img.gtvcdn.com/cdn/farfuture/cfzv8xgE0gqt_OMRH-QKUc-eH5rfK9oWgxDql81yYQg/mtime%3A1465324347/sites/default/files/imagecache/xbox_video_977x494/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg"
+        },
+        "keyart_16x9_withtext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/0wiP9z68wBmi5PJ7neuI-HgpJrk-7iwksp521Eb6450/mtime%3A1465324342/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/NFr3ZE50EVggBS_m4isKXoz01Yv_-XHXpoAlKQnXK3M/mtime%3A1468265103/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/Xbi1ou2PU_samlngK_JksourgG_Sv56t62mIyxOKs9g/mtime%3A1468265104/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe_title/123591_as_s2e2_the_secrets_of_soul_ascension_16x9.jpg"
+        },
+        "keyart_16x9_notext": {
+          "keyart_304x171": "http://img.gtvcdn.com/cdn/farfuture/-GMp7AO_kMoKJWgrS_KsjGTiRRm7Jd2sxw60B6h1gx0/mtime%3A1465324342/sites/default/files/imagecache/keyart_304x171/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg",
+          "keyart_570x321": "http://img.gtvcdn.com/cdn/farfuture/TBk-nbsDq0n__2qnoT2spR1Nt6_anmmHpenQwVygh2g/mtime%3A1465324343/sites/default/files/imagecache/keyart_570x321/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg",
+          "keyart_820x461": "http://img.gtvcdn.com/cdn/farfuture/TBk-nbsDq0n__2qnoT2spR1Nt6_anmmHpenQwVygh2g/mtime%3A1465324343/sites/default/files/imagecache/keyart_820x461/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg",
+          "keyart_864x486": "http://img.gtvcdn.com/cdn/farfuture/phJV78yyAsnCZntHs3cvOGKG6ORAWEYx1Z9VEZEvF3Q/mtime%3A1468265104/sites/default/files/imagecache/keyart_864x486/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg",
+          "keyart_1070x602": "http://img.gtvcdn.com/cdn/farfuture/6TkJpGNTCV-CPz0WAnxEkOdpS9acwvtEmdNYEBvoygw/mtime%3A1465324344/sites/default/files/imagecache/keyart_1070x602/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg",
+          "keyart_1180x664": "http://img.gtvcdn.com/cdn/farfuture/PHTDMGgTRvyFeRSvqDUOJ-J9OgRlnXMAkuMkVi61Eng/mtime%3A1468265105/sites/default/files/imagecache/keyart_1180x664/img_16x9_landsacpe/123591_as_s2e2_the_secrets_of_soul_ascension_clean_16x9.jpg"
+        },
+        "fivestar": {
+          "up_count": {
+            "value": 308
+          },
+          "down_count": {
+            "value": 12
+          }
+        },
+        "preview": {
+          "nid": "123941",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP02_SECRETS_OF_SOUL_ASCENSION_Show_03_XD_T",
+          "duration": "93"
+        },
+        "feature": {
+          "nid": "123961",
+          "contentId": "GTV_AR_The_Awakened_Soul_EP02_SECRETS_OF_SOUL_ASCENSION_Show_03_XD",
+          "duration": "1892"
+        },
+        "drupal_cache": "hit"
+      }
+    ]
+  }
+}

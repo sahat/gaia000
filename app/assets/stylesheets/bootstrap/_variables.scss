@@ -1,0 +1,30 @@
+$link-color: #5c738a;
+$link-hover-color: darken(#5c738a, 20);
+$link-hover-decoration: none;
+
+$brand-success: #29b35b;
+$brand-danger: #b61b17;
+
+$font-family-base: "Avenir", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$headings-color: #5c738a;
+$headings-font-weight: 700;
+
+$alert-info-border: #31708f;
+$alert-success-border: darken($brand-success, 12%);
+$alert-success-text: #fff;
+$alert-success-bg: $brand-success;
+$alert-danger-border: #b61b17;
+$alert-danger-text: #b61b17;
+$alert-danger-bg: #ffcdd2;
+
+$navbar-height: 50px;
+$navbar-default-bg: #fff;
+$navbar-default-border: #e0e0e0;
+$navbar-default-color: #757575;
+$navbar-default-link-hover-color: #ff5548;
+$navbar-default-link-hover-bg: transparent;
+$navbar-default-link-active-bg: transparent;
+$navbar-default-link-active-color: #262626;
+
+$panel-heading-padding: 20px 30px;
+$panel-body-padding: 30px;

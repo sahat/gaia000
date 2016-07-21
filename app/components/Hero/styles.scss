@@ -1,0 +1,23 @@
+.Hero {
+  background-size: cover;
+  height: 300px;
+  padding: 5rem 6rem;
+
+  @media (max-width: 768px) {
+    padding: 3rem 2rem;
+  }
+
+  &__title {
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  &__description {
+    margin-bottom: 2rem;
+    line-height: 1.5em;
+    color: #fff;
+  }
+}
+

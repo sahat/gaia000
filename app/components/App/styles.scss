@@ -1,0 +1,61 @@
+@import "../../assets/stylesheets/bootstrap/variables";
+@import "../../assets/stylesheets/bootstrap/bootstrap";
+
+// Fonts
+// -------------------------
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: 300;
+  src: url('../../assets/fonts/Avenir-Light.otf');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  src: url('../../assets/fonts/Avenir-Roman.otf');
+}
+
+@font-face {
+  font-family: 'Avenir';
+  font-weight: bold;
+  src: url('../../assets/fonts/Avenir-Heavy.otf');
+}
+
+// Global styles
+// -------------------------
+
+body {
+  color: #4a4a4a;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn {
+  font-size: 14px;
+  color: #fff;
+  letter-spacing: 1px;
+  text-align: center;
+  line-height: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  margin: 10px 6px 10px 10px;
+  padding: 13px 20px;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-image: none;
+  border-radius: 0;
+}
+
+.btn-primary {
+  background-color: #5c738a;
+  &:active:hover,
+  &:active:focus,
+  &:hover,
+  &:focus {
+    background-color: #44576b;
+  }
+}
+
+
+
+

@@ -1,0 +1,22 @@
+.SortDropdown {
+  margin-top: 15px;
+  margin-bottom: 30px;
+  color: #5c738a;
+
+  select {
+    margin-top: 3px;
+    color: #5c738a;
+    border-color: #5c738a;
+    border-radius: 0;
+    background: url('../../assets/images/arrow_down@2x.png') no-repeat right 10px center;
+    background-size: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    &:hover,
+    &:focus {
+      box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
+      border-color: inherit;
+    }
+  }
+}
